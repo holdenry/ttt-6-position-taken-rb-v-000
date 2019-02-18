@@ -2,4 +2,4 @@
 def position_taken?(board, token)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   token = ["X", "O"]
-end
+end 
