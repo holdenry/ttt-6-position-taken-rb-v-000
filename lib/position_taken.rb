@@ -4,4 +4,4 @@ def position_taken?(board, token)
   token = ["X", "O"]
   if empty return false
 else return true
-end 
+end  
